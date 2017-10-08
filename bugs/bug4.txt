@@ -1,3 +1,3 @@
 class TrueOrFalse {
-*edit*    isEquals(57 == 18);
+*edit*    isTrue(57 == 18);
 }

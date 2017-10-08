@@ -1,3 +1,3 @@
 class DNE {
-    x = 4 / 2;
+*edit*    integer x = 4 / 2;
 }

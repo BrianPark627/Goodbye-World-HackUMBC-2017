@@ -1,0 +1,3 @@
+class Exchange {
+*edit*    integer x = “is there something wrong”;
+}

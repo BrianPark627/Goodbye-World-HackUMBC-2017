@@ -1,2 +1,2 @@
-Error in class Count at line 8
+Error in class Count at line 4
     While loop does not execute

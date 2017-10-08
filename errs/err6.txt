@@ -1,2 +1,2 @@
 Error in class DNE at line 2
-    I shouldn't exist
+    x must divide by 0

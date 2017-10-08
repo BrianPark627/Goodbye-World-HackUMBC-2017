@@ -1,0 +1,2 @@
+Error in class Exchange at line 2
+    x should be an integer equal to 5

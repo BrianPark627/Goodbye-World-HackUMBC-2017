@@ -1,5 +1,5 @@
 class OutOfBounds {
     // arrays start at 0
     integer[] a = new integer[3];
-    a[3] = 1;
+*edit*    a[3] = 1;
 }

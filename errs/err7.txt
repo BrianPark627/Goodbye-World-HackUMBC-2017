@@ -1,0 +1,2 @@
+Error in class Initializer at line 2
+    x needs to be initialized to 10

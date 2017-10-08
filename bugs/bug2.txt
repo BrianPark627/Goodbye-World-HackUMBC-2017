@@ -1,4 +1,4 @@
 class Calculator {
-    x = 2 * 5 + 1;
+    integer x = 2 * 5 + 1;
 *edit*    isTrue(x == 12);
 }
