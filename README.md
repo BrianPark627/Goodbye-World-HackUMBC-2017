@@ -1,9 +1,11 @@
 # Goodbye-World-HackUMBC-2017
 A suicide prevention text-based game for Hack UMBC Fall 2017.
 
-### Working with Eclipse
-Can be imported into Eclipse by downloading the repository and importing it as an archive folder. Run the GUI class.
-If you can't run it as a Java Application, add the "src" folder to the build path.
+### Team Members
+Elissa Huang
+Brian Park
+Vishal Patel
+Francis Poon
 
-### Working with IntellJ IDEA
-Should be able to just import the project straight into IntelliJ with no problems.
+### Planning Document
+https://docs.google.com/document/d/1XEls7ApOOb-tw5m1ojlZBFgEfRYhu_qquJLI1drv1Xg/edit?usp=sharing
