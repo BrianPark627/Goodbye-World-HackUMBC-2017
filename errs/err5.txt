@@ -1,0 +1,2 @@
+Error in class OutOfBounds at line 4
+    3 is out of bounds
